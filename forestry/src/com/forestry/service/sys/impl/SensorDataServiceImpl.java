@@ -14,8 +14,8 @@ import com.forestry.service.sys.SensorDataService;
 import core.service.BaseService;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu
+ * @email 459050855@qq.com
  */
 @Service
 public class SensorDataServiceImpl extends BaseService<SensorData> implements SensorDataService {

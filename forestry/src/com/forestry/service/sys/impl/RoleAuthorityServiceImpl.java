@@ -11,8 +11,8 @@ import com.forestry.service.sys.RoleAuthorityService;
 import core.service.BaseService;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu
+ * @email 459050855@qq.com
  */
 @Service
 public class RoleAuthorityServiceImpl extends BaseService<RoleAuthority> implements RoleAuthorityService {

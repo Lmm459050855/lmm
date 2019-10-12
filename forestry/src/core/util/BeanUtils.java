@@ -18,8 +18,8 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu
+ * @email 459050855@qq.com
  */
 public class BeanUtils {
 

@@ -7,8 +7,8 @@ import org.springframework.transaction.annotation.Transactional;
 import core.dao.JdbcBaseDao;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu
+ * @email 459050855@qq.com
  */
 @Transactional
 public class JdbcBaseService {

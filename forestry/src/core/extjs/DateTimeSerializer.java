@@ -10,8 +10,8 @@ import org.codehaus.jackson.map.JsonSerializer;
 import org.codehaus.jackson.map.SerializerProvider;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu
+ * @email 459050855@qq.com
  */
 public class DateTimeSerializer extends JsonSerializer<Date> {
 	private static final String DATE_FORMAT = "yyyy-MM-dd HH:mm:ss";

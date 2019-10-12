@@ -4,8 +4,8 @@ import net.sf.ehcache.CacheException;
 import net.sf.ehcache.CacheManager;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu
+ * @email 459050855@qq.com
  */
 public class CacheFactory {
 

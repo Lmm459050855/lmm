@@ -24,8 +24,8 @@ import core.extjs.ListView;
 import core.support.QueryResult;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu
+ * @email 459050855@qq.com
  */
 @Controller
 @RequestMapping("/sys/department")

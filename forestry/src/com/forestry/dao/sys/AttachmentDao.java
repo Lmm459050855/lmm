@@ -7,8 +7,8 @@ import com.forestry.model.sys.Attachment;
 import core.dao.Dao;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu
+ * @email 459050855@qq.com
  */
 public interface AttachmentDao extends Dao<Attachment> {
 
