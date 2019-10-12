@@ -5,8 +5,8 @@ import java.util.regex.Pattern;
 import org.apache.commons.lang.StringUtils;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu 
+ * @email 459050855@qq.com
  */
 public class HtmlUtils {
 

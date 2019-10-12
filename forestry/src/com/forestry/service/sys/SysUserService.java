@@ -7,8 +7,8 @@ import com.forestry.model.sys.SysUser;
 import core.service.Service;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu 
+ * @email 459050855@qq.com
  */
 public interface SysUserService extends Service<SysUser> {
 

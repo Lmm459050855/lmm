@@ -5,8 +5,8 @@ import com.forestry.model.sys.SensorLastData;
 import core.dao.Dao;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu 
+ * @email 459050855@qq.com
  */
 public interface SensorLastDataDao extends Dao<SensorLastData> {
 

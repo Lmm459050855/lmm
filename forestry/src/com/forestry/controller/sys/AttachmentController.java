@@ -16,8 +16,8 @@ import com.forestry.model.sys.Attachment;
 import com.forestry.service.sys.AttachmentService;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu 
+ * @email 459050855@qq.com
  */
 @Controller
 @RequestMapping("/sys/attachment")

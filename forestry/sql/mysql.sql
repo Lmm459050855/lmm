@@ -927,5 +927,5 @@ CREATE TABLE `sys_user` (
 -- ----------------------------
 -- Records of sys_user
 -- ----------------------------
-INSERT INTO `sys_user` VALUES ('1', '1298588579@qq.com', '2014-11-20 21:15:56', 'e10adc3949ba59abbe56e057f20f883e', '杨添', '1', '', 0x61646D696E);
+INSERT INTO `sys_user` VALUES ('1', '459050855@qq.com', '2014-11-20 21:15:56', 'e10adc3949ba59abbe56e057f20f883e', '杨添', '1', '', 0x61646D696E);
 INSERT INTO `sys_user` VALUES ('2', '', '2014-08-04 15:35:01', 'e10adc3949ba59abbe56e057f20f883e', '', '3', '', 0x74657374);

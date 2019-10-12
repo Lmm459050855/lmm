@@ -8,8 +8,8 @@ import com.forestry.model.sys.ForestryType;
 import core.dao.BaseDao;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu 
+ * @email 459050855@qq.com
  */
 @Repository
 public class ForestryTypeDaoImpl extends BaseDao<ForestryType> implements ForestryTypeDao {

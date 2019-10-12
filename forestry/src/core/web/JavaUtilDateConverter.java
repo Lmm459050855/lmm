@@ -7,8 +7,8 @@ import org.apache.commons.beanutils.Converter;
 import org.apache.commons.lang3.time.DateUtils;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu 
+ * @email 459050855@qq.com
  */
 public class JavaUtilDateConverter implements Converter {
 

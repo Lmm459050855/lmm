@@ -13,8 +13,8 @@ import core.dao.BaseDao;
 import core.support.QueryResult;
 
 /**
- * @author Yang Tian
- * @email 1298588579@qq.com
+ * @author lidahu 
+ * @email 459050855@qq.com
  */
 @Repository
 public class SensorDaoImpl extends BaseDao<Sensor> implements SensorDao {
