@@ -8,8 +8,8 @@ import com.forestry.model.sys.Config;
 import core.dao.BaseDao;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 @Repository
 public class ConfigDaoImpl extends BaseDao<Config> implements ConfigDao {

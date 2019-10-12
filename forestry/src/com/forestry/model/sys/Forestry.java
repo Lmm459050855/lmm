@@ -23,8 +23,8 @@ import com.google.common.base.Objects;
 import core.extjs.DateTimeSerializer;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  * @树木信息实体类
  */
 @Entity

@@ -15,8 +15,8 @@ import core.service.BaseService;
 import core.util.HtmlUtils;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 @Service
 public class ForestryTypeServiceImpl extends BaseService<ForestryType> implements ForestryTypeService {

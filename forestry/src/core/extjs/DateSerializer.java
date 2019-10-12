@@ -10,8 +10,8 @@ import org.codehaus.jackson.map.JsonSerializer;
 import org.codehaus.jackson.map.SerializerProvider;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 public class DateSerializer extends JsonSerializer<Date> {
 

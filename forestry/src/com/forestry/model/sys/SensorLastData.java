@@ -16,8 +16,8 @@ import com.forestry.model.sys.param.SensorLastDataParameter;
 import com.google.common.base.Objects;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  * @传感器的温度、湿度和光照度最新数据实体类
  */
 @Entity

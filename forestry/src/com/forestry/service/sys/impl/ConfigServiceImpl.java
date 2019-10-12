@@ -15,8 +15,8 @@ import core.service.BaseService;
 import core.web.SystemCache;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 @Service
 public class ConfigServiceImpl extends BaseService<Config> implements ConfigService {

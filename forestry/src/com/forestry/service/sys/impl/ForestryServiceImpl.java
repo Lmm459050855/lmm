@@ -20,8 +20,8 @@ import com.forestry.service.sys.ForestryService;
 import core.service.BaseService;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 @Service
 public class ForestryServiceImpl extends BaseService<Forestry> implements ForestryService {

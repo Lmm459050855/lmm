@@ -12,8 +12,8 @@ import core.support.BaseParameter;
 import core.support.QueryResult;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 @Transactional
 public class BaseService<E> implements Service<E> {

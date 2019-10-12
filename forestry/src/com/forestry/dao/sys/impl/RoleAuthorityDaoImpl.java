@@ -8,8 +8,8 @@ import com.forestry.model.sys.RoleAuthority;
 import core.dao.BaseDao;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 @Repository
 public class RoleAuthorityDaoImpl extends BaseDao<RoleAuthority> implements RoleAuthorityDao {

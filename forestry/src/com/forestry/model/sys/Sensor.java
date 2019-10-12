@@ -14,8 +14,8 @@ import com.forestry.model.sys.param.SensorParameter;
 import com.google.common.base.Objects;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  * @传感器的坐标实体类
  */
 @Entity

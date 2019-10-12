@@ -15,8 +15,8 @@ import com.forestry.model.sys.MonitorLog;
 import com.forestry.service.sys.MonitorLogService;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 @Controller
 @RequestMapping("/sys/monitorlog")

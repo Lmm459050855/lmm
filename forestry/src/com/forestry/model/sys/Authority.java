@@ -14,8 +14,8 @@ import com.forestry.model.sys.param.AuthorityParameter;
 import com.google.common.base.Objects;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  * @权限管理实体类
  */
 @Entity

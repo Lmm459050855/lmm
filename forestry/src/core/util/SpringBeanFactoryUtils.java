@@ -12,8 +12,8 @@ import org.springframework.beans.factory.BeanFactoryAware;
 import com.forestry.core.Constant;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 public class SpringBeanFactoryUtils implements BeanFactoryAware {
 

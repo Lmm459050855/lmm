@@ -5,8 +5,8 @@ import com.forestry.model.sys.Department;
 import core.dao.Dao;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 public interface DepartmentDao extends Dao<Department> {
 

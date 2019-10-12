@@ -3,8 +3,8 @@ package core.util;
 import java.math.BigDecimal;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 public class HighPreciseComputor {
 

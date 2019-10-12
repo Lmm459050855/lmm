@@ -14,8 +14,8 @@ import com.forestry.model.sys.SensorData;
 import com.forestry.service.sys.SensorDataService;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 @Controller
 @RequestMapping("/sys/sensordata")

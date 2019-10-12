@@ -36,8 +36,8 @@ import core.support.Group;
 import core.support.Item;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 public class SystemInitListener implements ServletContextListener, WebApplicationInitializer {
 

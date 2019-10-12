@@ -7,8 +7,8 @@ import java.util.regex.PatternSyntaxException;
 import org.apache.commons.lang.math.RandomUtils;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 public class ForestryUtils {
 

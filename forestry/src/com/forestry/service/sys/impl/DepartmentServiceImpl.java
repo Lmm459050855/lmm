@@ -11,8 +11,8 @@ import com.forestry.service.sys.DepartmentService;
 import core.service.BaseService;
 
 /**
- * @author lidahu 
- * @email 459050855@qq.com
+ * @author Yang Tian
+ * @email 1298588579@qq.com
  */
 @Service
 public class DepartmentServiceImpl extends BaseService<Department> implements DepartmentService {
